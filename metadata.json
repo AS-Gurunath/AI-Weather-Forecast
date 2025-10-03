@@ -1,0 +1,5 @@
+{
+  "name": "AI Weather Forecast",
+  "description": "A sleek, minimalistic weather application powered by AI. It provides real-time weather conditions, a 7-day forecast, and a conversational summary of the weather for any location.",
+  "requestFramePermissions": []
+}
